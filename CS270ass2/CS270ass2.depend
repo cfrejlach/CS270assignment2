@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600734117 source:c:\users\mrt\documents\c++ class\cs270ass2\main.cpp
+	<iostream>
+
+1600807264 source:c:\users\mrt\documents\c++ class\cs270ass2\src\combine.cpp
+	"Combine.h"
+	<iostream>
+
+1600734790 c:\users\mrt\documents\c++ class\cs270ass2\include\combine.h
+
